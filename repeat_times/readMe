@@ -1,0 +1,9 @@
+This is repeater script
+just run ./repeater it will run the command in abc.sh 10 times and edit the text file 
+what ever command is there in abc.sh will be saved in to text 10 times
+
+files
+repeater-you have to run
+abc.sh- contain script
+text- will save the output according to abc.sh
+readme- details about script
